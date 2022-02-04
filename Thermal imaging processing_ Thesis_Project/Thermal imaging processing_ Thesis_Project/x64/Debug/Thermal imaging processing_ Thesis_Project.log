@@ -1,0 +1,5 @@
+﻿  preparation.cpp
+D:\Computer vision sources\Thermal imaging processing_ Thesis_Project\Thermal imaging processing_ Thesis_Project\preparation.cpp(49,26): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Computer vision sources\Thermal imaging processing_ Thesis_Project\Thermal imaging processing_ Thesis_Project\preparation.cpp(73,26): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Computer vision sources\Thermal imaging processing_ Thesis_Project\Thermal imaging processing_ Thesis_Project\preparation.cpp(102,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Thermal imaging processing_ Thesis_Project.vcxproj -> D:\Computer vision sources\Thermal imaging processing_ Thesis_Project\x64\Debug\Thermal imaging processing_ Thesis_Project.exe
